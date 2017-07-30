@@ -1,4 +1,4 @@
-def alphatomores(sign):
+def alphatomorse(sign):
 	var sign = 
 	{
 		"a": "._",
@@ -27,6 +27,4 @@ def alphatomores(sign):
 		"x": "_.._",
 		"y": "_.__",
 		"z": "__.."
-	
-	
 	}
